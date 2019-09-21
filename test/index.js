@@ -1,3 +1,3 @@
-const l = require('../lib/pack')
+const l = require('../dist/bundle.js')
 
-console.log(l.default)
+console.log(l)

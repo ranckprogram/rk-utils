@@ -1,4 +1,2 @@
-export default {
-  createArray: require('./createArray'),
-  copyArray: require('./copyArray')
-}
+export { default as createArray } from './createArray';
+export { default as copyArray } from './copyArray';

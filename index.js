@@ -1,0 +1,1 @@
+export { default as aTool } from './dist/bundle';
